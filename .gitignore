@@ -9,3 +9,5 @@ ios/Flutter/Flutter.podspec
 android/.gradle/
 *.log
 *.lock
+ssh-keygen*
+*.pub
